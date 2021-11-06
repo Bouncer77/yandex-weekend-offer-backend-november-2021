@@ -23,3 +23,7 @@
 # Maven
 log/
 target/
+
+/YandexTasks
+!/YandexTasks/YandexTasks.rar
+!/YandexTasks/pdf/**
