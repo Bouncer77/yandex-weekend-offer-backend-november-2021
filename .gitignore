@@ -26,6 +26,6 @@
 log/
 target/
 
-/YandexTasks
+/YandexTasks/*
 !/YandexTasks/YandexTasks.rar
-!/YandexTasks/pdf/**
+!/YandexTasks/pdf/
